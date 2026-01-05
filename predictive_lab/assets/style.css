@@ -1,0 +1,13 @@
+body { font-family: Arial, sans-serif; background:#f5f6fa; }
+.container { max-width: 900px; margin: 30px auto; padding: 10px; }
+.card { background:#fff; padding:16px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,.08); }
+label { display:block; margin-top:10px; font-weight:600; }
+input, textarea, select { width:100%; padding:10px; margin-top:6px; border:1px solid #ddd; border-radius:8px; }
+button, .btn { display:inline-block; margin-top:14px; padding:10px 14px; border:none; border-radius:8px; background:#2d6cdf; color:white; text-decoration:none; cursor:pointer; }
+.table { width:100%; border-collapse: collapse; background:#fff; border-radius:10px; overflow:hidden; }
+.table th, .table td { padding:10px; border-bottom:1px solid #eee; text-align:left; }
+.alert { background:#ffe3e3; padding:10px; border-radius:8px; margin: 10px 0; }
+.success { background:#e6ffea; padding:10px; border-radius:8px; margin: 10px 0; }
+.topbar { display:flex; justify-content:space-between; align-items:center; gap: 10px; }
+.grid { display:grid; grid-template-columns: 1fr 1fr; gap:12px; margin-top:16px; }
+.hint { color:#666; }
