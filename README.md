@@ -80,6 +80,3 @@ Engineering labs rely heavily on equipment that requires regular monitoring and 
 
 * Course: CSE370 – Database Systems
 * Institution: BRAC University
-
-
-If you find this project useful, consider giving it a ⭐ on GitHub!
